@@ -11,7 +11,7 @@ pip install pynput
 - Run the script with: python copy.py
 - You have 5 seconds (this time can be modified) to activate a remote Citrix window and place cursor where you want your local clipboard text is copied (ex., remote notepad).
 - Script will loop through your clipboard text letters and characters simulating their respective key presses.
-- Text will be copied in remote session active window as if you have written it manually [Warning: Do not change neither active window nor cursor position while text is being copied].
+- Text will be copied in remote session active window as if you have written it manually **[Warning: Do not change neither active window nor cursor position while text is being copied].**
 
 ## Optional
 Bind script execution with a custom Keyboard shorcut.
