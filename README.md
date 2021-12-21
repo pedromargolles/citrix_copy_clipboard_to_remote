@@ -14,4 +14,4 @@ pip install pynput
 - Text will be copied in the remote session active window as if you have written it manually **[Warning: Do not change neither active window nor cursor position while text is being copied].**
 
 ## Optional
-Bind script execution with a custom local keyboard shorcut. Then, your clipboard text will be copied automatically to remote session after 5 seconds.
+Bind script execution with a custom local hotkey shorcut. Then, your clipboard text will be copied automatically to remote session after 5 seconds.
