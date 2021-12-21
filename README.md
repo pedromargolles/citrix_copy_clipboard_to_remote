@@ -1,4 +1,4 @@
-# citrix_local_to_remote
+# citrix_copy_clipboard_to_remote
 A python script to copy text from clipboard to a remote Citrix session simulating key presses when remote Copy/Paste is not allowed
 
 ## Install dependencies:
