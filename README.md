@@ -15,4 +15,4 @@ pip install pynput
 
 ## Optional
 - Bind script execution with a custom local hotkey shorcut. Then, your clipboard text will be copied automatically to remote session after 5 seconds.
-- Modify this script to automatically copy custom text strings (ex., usual URLs or passwords) and assign its execution to different hotkeys.
+- Modify this script to automatically copy custom text strings (ex., usual URLs or passwords) or even create your own text based macros, and assign its execution to different hotkeys.
