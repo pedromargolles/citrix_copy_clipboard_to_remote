@@ -13,6 +13,6 @@ pip install pynput
 - Script will loop through your local clipboard text letters and characters simulating their respective key presses.
 - Text will be progresively be copied in remote session active window as if you were written it manually **[Warning: Do not change neither active window nor cursor position while text is being copied].**
 
-## Optional
+## Optional:
 - Bind script execution with a custom local hotkey shorcut. Then, your clipboard text will be copied automatically to remote session after 5 seconds.
 - Modify this script to automatically copy custom text strings (ex., usual URLs or passwords) or even create your own text based macros, and assign its execution to different hotkeys.
